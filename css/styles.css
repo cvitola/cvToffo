@@ -1,0 +1,23 @@
+@import url("components/avatar.css");
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Roboto+Slab:wght@300&display=swap');
+body{
+    font-size: 16px;
+    font-family: 'Roboto Slab', serif;
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 33%, rgba(223,240,244,1) 71%, rgba(198,255,253,1) 100%);
+    color: #56556e;
+}
+p i{
+    font-size: 26px;
+}
+
+.subtitulo{
+    font-family: 'Bree Serif', serif;
+    color: #3c2946;
+}
+
+p img{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
